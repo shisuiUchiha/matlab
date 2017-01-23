@@ -1,0 +1,2 @@
+a=imread("money.jpg")
+a
